@@ -1,0 +1,1 @@
+surge -a sugartayta@gmail.com,alsohi24@gmail.com -d AndreParissi.surge.sh .
